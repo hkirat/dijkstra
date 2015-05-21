@@ -1,5 +1,5 @@
 Live Version Can be found at:
-[Dijkstra](http://www.hkirat.github.io/dijkstra) 
+[Dijkstra](http://hkirat.github.io/dijkstra) 
 
 Kinetic Simulation Of Dijkstra's Algorithm.
 I wrote this code 1 afternoon after watching a lecture by an MIT professor on Dijkstra's Algorithm.
